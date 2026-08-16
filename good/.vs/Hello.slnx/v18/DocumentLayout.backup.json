@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\myhelloworld\\good\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\10_scanf_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\10_scanf_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\09_scanf_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\09_scanf_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\08_scanf_demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\08_scanf_demo2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\03_variable_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\03_variable_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\constant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\constant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\05_variable_demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\05_variable_demo5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\07_scanf_demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\07_scanf_demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|D:\\develop\\myhelloworld\\good\\Hello\\01_variable_decom.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0028D807-0FB7-4351-961C-B8E28ADAD77E}|Hello\\Hello.vcxproj|solutionrelative:Hello\\01_variable_decom.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03_variable_demo3.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\03_variable_demo3.c",
+              "RelativeDocumentMoniker": "Hello\\03_variable_demo3.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\03_variable_demo3.c",
+              "RelativeToolTip": "Hello\\03_variable_demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-05T05:04:03.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "09_scanf_demo3.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\09_scanf_demo3.c",
+              "RelativeDocumentMoniker": "Hello\\09_scanf_demo3.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\09_scanf_demo3.c",
+              "RelativeToolTip": "Hello\\09_scanf_demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-06T12:44:27.559Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10_scanf_demo3.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\10_scanf_demo3.c",
+              "RelativeDocumentMoniker": "Hello\\10_scanf_demo3.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\10_scanf_demo3.c",
+              "RelativeToolTip": "Hello\\10_scanf_demo3.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-06T14:42:57.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08_scanf_demo2.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\08_scanf_demo2.c",
+              "RelativeDocumentMoniker": "Hello\\08_scanf_demo2.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\08_scanf_demo2.c",
+              "RelativeToolTip": "Hello\\08_scanf_demo2.c",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-06T10:33:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "07_scanf_demo1.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\07_scanf_demo1.c",
+              "RelativeDocumentMoniker": "Hello\\07_scanf_demo1.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\07_scanf_demo1.c",
+              "RelativeToolTip": "Hello\\07_scanf_demo1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-06T10:05:33.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "constant.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\constant.c",
+              "RelativeDocumentMoniker": "Hello\\constant.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\constant.c",
+              "RelativeToolTip": "Hello\\constant.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-05T12:13:30.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05_variable_demo5.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\05_variable_demo5.c",
+              "RelativeDocumentMoniker": "Hello\\05_variable_demo5.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\05_variable_demo5.c",
+              "RelativeToolTip": "Hello\\05_variable_demo5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-05T05:34:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01_variable_decom.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\good\\Hello\\01_variable_decom.c",
+              "RelativeDocumentMoniker": "Hello\\01_variable_decom.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\good\\Hello\\01_variable_decom.c",
+              "RelativeToolTip": "Hello\\01_variable_decom.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-05T05:03:09.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

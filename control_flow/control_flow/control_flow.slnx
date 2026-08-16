@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="control_flow/control_flow.vcxproj" Id="05da2ec8-c10d-4241-826a-46ff7c40a925" />
+</Solution>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\myhelloworld\\operator\\operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|D:\\develop\\myhelloworld\\operator\\operator\\operator\\18_operator_demo18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|solutionrelative:operator\\18_operator_demo18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|D:\\develop\\myhelloworld\\operator\\operator\\operator\\11_operator_demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|solutionrelative:operator\\11_operator_demo11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|D:\\develop\\myhelloworld\\operator\\operator\\operator\\15_operator_demo15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|solutionrelative:operator\\15_operator_demo15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|D:\\develop\\myhelloworld\\operator\\operator\\operator\\17_operator_demo17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|solutionrelative:operator\\17_operator_demo17.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|D:\\develop\\myhelloworld\\operator\\operator\\operator\\03_operator_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA16CAA4-E978-4CFE-A31E-55C1919D7ECD}|operator\\operator.vcxproj|solutionrelative:operator\\03_operator_demo3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "18_operator_demo18.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\18_operator_demo18.c",
+              "RelativeDocumentMoniker": "operator\\18_operator_demo18.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\18_operator_demo18.c",
+              "RelativeToolTip": "operator\\18_operator_demo18.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-08T15:32:49.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "17_operator_demo17.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\17_operator_demo17.c",
+              "RelativeDocumentMoniker": "operator\\17_operator_demo17.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\17_operator_demo17.c",
+              "RelativeToolTip": "operator\\17_operator_demo17.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-08T15:00:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "15_operator_demo15.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\15_operator_demo15.c",
+              "RelativeDocumentMoniker": "operator\\15_operator_demo15.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\15_operator_demo15.c",
+              "RelativeToolTip": "operator\\15_operator_demo15.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-08T13:34:34.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11_operator_demo11.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\11_operator_demo11.c",
+              "RelativeDocumentMoniker": "operator\\11_operator_demo11.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\11_operator_demo11.c",
+              "RelativeToolTip": "operator\\11_operator_demo11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-08T07:33:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03_operator_demo3.c",
+              "DocumentMoniker": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\03_operator_demo3.c",
+              "RelativeDocumentMoniker": "operator\\03_operator_demo3.c",
+              "ToolTip": "D:\\develop\\myhelloworld\\operator\\operator\\operator\\03_operator_demo3.c",
+              "RelativeToolTip": "operator\\03_operator_demo3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-07T06:49:12.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
