@@ -6,10 +6,10 @@
 //      return 返回值；
 // }
 
-int sum(int base,int addation)
+int sum(int base,int addation)//这里的sum是函数名
 {
-    int sum=base+addation;
-    return sum;
+    int sum=base+addation;//这里的sum是变量名，和第9行的sum不一样，一般应该用不同的字母标示
+    return sum;//返回变量sum本身，将计算结果带回调用处
 }
 
 int main()

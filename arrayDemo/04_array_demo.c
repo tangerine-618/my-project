@@ -14,6 +14,7 @@ int main()
     int arr[]={1,2,3,4,5};
     //printf("%zu\n",sizeof(arry));
     int len=sizeof(arr)/sizeof(arr[0]);
+    //int len=sizeof(arr)/sizeof(int);这个也可以
     //调用函数遍历数组
     printfArr(arr,len);
 
