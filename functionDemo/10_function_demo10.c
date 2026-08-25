@@ -15,15 +15,15 @@ int main()
 
         if(guess>num)
         {
-            printf("大了");
+            printf("大了\n");
         }
         else if(guess<num)
         {
-            printf("小了");
+            printf("小了\n");
         }
         else if(guess==num)
         {
-            printf("猜中了");
+            printf("猜中了\n");
             break;
         }
         
