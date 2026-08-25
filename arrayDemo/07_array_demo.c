@@ -44,7 +44,7 @@ int main()
     //输出
     printf("和为%d\n",sum);
     printf("平均数为%d\n",avg);
-    printf("小于平均数的数有%d\n个",count);
+    printf("小于平均数的数有%d个",count);
 
     return 0;
 }
