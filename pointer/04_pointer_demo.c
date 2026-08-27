@@ -19,6 +19,7 @@ int main()
     return 0;
 }
 void getmaxandmin(int arr[],int len,int* max,int* min)
+//希望修改函数外部变量时，参数类型加*
 {
     *max=arr[0];
     for (int i = 0; i < len; i++)
@@ -38,3 +39,4 @@ void getmaxandmin(int arr[],int len,int* max,int* min)
        }
     }
 }
+//不返回任何值，通过函数改max min 这两个指针参数，
