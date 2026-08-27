@@ -14,7 +14,7 @@ int main()
 }
 void myswap(int* p1,int* p2)
 {
-    //交换的是num里面的值，复印件，不改变原地址变量的值
+    
     int temp=*p1;
     *p1=*p2;
     *p2=temp;

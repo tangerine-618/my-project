@@ -13,7 +13,7 @@ int main()
     //输出打印
     printf("%d\n",*p);
     printf("%d\n",a);
-
+//看存储空间
     char c='a';
     char*p1=&c;
 
