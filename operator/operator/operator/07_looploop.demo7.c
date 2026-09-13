@@ -11,5 +11,6 @@ int main()
 		printf("\n");
 	}
 	return 0;
+	//  \t制表符
 
 }
