@@ -13,6 +13,7 @@ int main()
     return 0;
 }
 void myswap(int* p1,int* p2)
+//这个函数类似这个过程int *p1=&a
 {
     
     int temp=*p1;

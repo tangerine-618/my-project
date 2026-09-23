@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 int* method();
+
 int main()
 {
     /*野指针：指针指向的空间未分配

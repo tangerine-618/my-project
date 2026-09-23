@@ -15,6 +15,5 @@ int main()
     printf("%p\n",&arr[1]);
     printf("%p\n",&arr[2]);
 
-
     return 0;
 }

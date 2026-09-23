@@ -10,15 +10,12 @@ int main()
     printf("拖点时间\n");
     printf("拖点时间\n");
 
-    printf("%d",*p);
-
-
-
+    printf("%d\n",*p);
 
     return 0;
 }
 int*method()
 {
-    static int a=10;//此时的变量一直保存到程序结束
+    static int a=10;//加static 此时的变量一直保存到程序结束
     return &a;
 }

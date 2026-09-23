@@ -13,9 +13,7 @@ int main()
     //最后一个索引上的元素改为0
     printf("改前%d\n",arr[4]);
     arr[4]=10;
-    printf("改后%d\n",arr[4]);
-
-          
+    printf("改后%d\n",arr[4]);  
 
     return 0;
 }

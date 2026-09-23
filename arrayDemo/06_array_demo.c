@@ -23,7 +23,5 @@ int main()
     }
     printf("和为%d\n",sum);
 
-
-
     return 0;
 }

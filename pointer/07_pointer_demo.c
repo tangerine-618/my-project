@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main()
 {
     /*指针运算有意义的操作

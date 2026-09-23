@@ -18,8 +18,7 @@ int main()
             {
                 int num=arr[i];
                 arr[i]=arr[j];
-                arr[j]=num;
-            
+                arr[j]=num;            
             }
                     
         }
@@ -28,8 +27,6 @@ int main()
     {
         printf("%d ",arr[i]);
     }
-    
-
 
     return 0;
 }
