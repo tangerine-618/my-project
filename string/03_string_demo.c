@@ -48,5 +48,6 @@ int main()
     }
 //这里在各自的循环里用str接收
 
+    return 0;
 
 }

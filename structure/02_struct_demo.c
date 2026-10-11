@@ -21,5 +21,6 @@ int main()
         struct student temp=stuarr[i];
         printf("学生的信息为：姓名%s,年龄%d\n",temp.name,temp.age);
     }
-    
+
+    return 0;
 }

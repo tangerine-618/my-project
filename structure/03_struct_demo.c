@@ -28,6 +28,5 @@ int main()
         printf("鞠婧祎饰演角色%s,攻击力:%d,防御力:%d,血量:%d\n",stemp.name,stemp.attact,stemp.defense,stemp.blod);
     }
     
-    
-
+    return 0;
 }

@@ -38,5 +38,7 @@ int main()
     printf("大写字母出现了%d次\n",bigcount);
     printf("小写字母出现了%d次\n",smallcount);
     printf("数字出现了%d次\n",numcount);
+
+    return 0;
       
 }

@@ -35,4 +35,6 @@ int main()
     printf("%p\n",str2);
     printf("%p\n",str3);
 
+    return 0;    
+
 }

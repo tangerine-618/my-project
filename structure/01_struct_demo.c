@@ -50,4 +50,5 @@ int main()
     printf("我女朋友的性别为:%c\n",gf2.gender);
     printf("我女朋友的身高为:%lf\n",gf2.height);
 
+    return 0;
 }
