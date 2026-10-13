@@ -11,6 +11,7 @@ typedef struct student
 //因为函数用到了结构体，所以函数声明必须写在结构体下面，否则会报错
 void method1(s st);
 void method2(s* st2);
+
 int main()
 {
     //定义一个学生

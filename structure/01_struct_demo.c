@@ -11,7 +11,6 @@
 函数外面：全局位置，在所有的函数中均可使用
 */
 
-
 struct girlfriend
 {
     char name[100];
