@@ -4,6 +4,7 @@
 int main()
 {
     /*
+    函数名    作用
     malloc   申请空间（连续）
     calloc   申请空间+数据初始化
     realloc  修改空间大小
